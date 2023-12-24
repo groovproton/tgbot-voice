@@ -1,6 +1,6 @@
-
 !voices/.gitkeep
-voices/*
+voices/*.mp3
+voices/*.ogg
 node_modules
 config/default.json
 config/production.json
